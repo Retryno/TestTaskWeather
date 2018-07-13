@@ -1,9 +1,7 @@
 ### Development
 ```
 npm i
-```
-or
-```
-npm start (just front side)
-```
+
+npm start
+
 Open http://localhost:3000
